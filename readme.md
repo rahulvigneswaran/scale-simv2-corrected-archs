@@ -1,4 +1,4 @@
-# Corrected arch configs for Scale-SimV2
+# Corrected arch CSVs for Scale-SimV2
 This repository contains corrected architecture configurations for ScaleSim V2. Raise an issue or PR if you find any issues.
 
 > Last updated : 23/02 6.49PM
